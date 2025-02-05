@@ -3,7 +3,7 @@
 ## 📌 Overview
 This is a **YouTube Comment Scraper** that allows you to extract comments from a YouTube video that contain the word **"location"** (case-insensitive). The extracted comments can then be saved as an **Excel (.xlsx) file** for further use.
 
-This project was inspired by the YouTuber **[Rob Postal](https://www.youtube.com/@RobPostal)**, who might find this tool useful for analyzing comment trends on their videos.
+This project was inspired by the YouTuber **[Rob Postal](https://www.youtube.com/@RobPostal)**, who might find this tool useful.
 
 ## 🚀 Features
 - ✅ Extract comments containing the word "location" from any YouTube video.
