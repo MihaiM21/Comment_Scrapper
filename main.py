@@ -6,6 +6,8 @@ import re
 from geotext import GeoText
 from urllib.parse import quote
 
+#pyinstaller --onefile --noconsole --icon=logo.ico main.py
+
 # Lista cu toate statele din SUA
 us_states = {
     "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida",
